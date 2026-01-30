@@ -104,7 +104,7 @@ This behavior is expected and reflects the dataset limitations.
 
 ## How to Run the Project
 
-## How to Run the Project
+
 
 1. Clone the repository
 ```bash
