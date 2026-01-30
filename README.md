@@ -1,6 +1,6 @@
 # Sentiment Analysis App
 
-##Task 1 -- Project Overview
+## Task 1 - Project Overview
 
 This project focuses on building a **Sentiment Analysis application**
 using a provided English text dataset. The main goal is to automatically
@@ -18,7 +18,7 @@ its performance, and clearly explain the obtained results.
 
 ------------------------------------------------------------------------
 
-## Task 2 -- Dataset Analysis (EDA)
+## Task 2 - Dataset Analysis (EDA)
 
 The dataset is divided into three parts: - Training set: 16,000
 samples - Validation set: 2,000 samples - Test set: 2,000 samples
@@ -32,7 +32,7 @@ emotions appear more frequently than others.
 
 ------------------------------------------------------------------------
 
-## Task 3 -- Text Processing
+## Task 3 - Text Processing
 
 Before training the model, the text data was cleaned using basic
 preprocessing steps: Converted all text to lowercase - Removed
@@ -44,7 +44,7 @@ emotions.
 
 ------------------------------------------------------------------------
 
-## Task 4 -- Model Building
+## Task 4 - Model Building
 
 Text data was converted into numerical features using the TF-IDF
 method.
@@ -85,7 +85,7 @@ more advanced text preprocessing techniques
 
 ------------------------------------------------------------------------
 
-## Task 6 -- Streamlit Interface
+## Task 6 - Streamlit Interface
 
 A simple **Streamlit-based interface** was created to test the model
 interactively.\
