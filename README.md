@@ -1,6 +1,6 @@
 # Sentiment Analysis App
 
-Task 1 -- Project Overview
+##Task 1 -- Project Overview
 
 This project focuses on building a **Sentiment Analysis application**
 using a provided English text dataset. The main goal is to automatically
